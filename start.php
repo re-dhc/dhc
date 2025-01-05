@@ -1,5 +1,5 @@
 document.write('<div id="counterForWebsiteDiv" style="margin: auto; padding: 0; border:0; width: 187px; height: 51px; overflow: hidden;">');
-document.write('<iframe src="//www.licznikodwiedzin.pl/cnt/cnt.php?key=287378947&amp;minDigits=6" width="187px" height="51px" id="counterForWebsiteFrame" marginheight="0" frameborder="0" style="margin: 0; border:0; padding: 0;" scrolling="no"></iframe>');
+document.write('<iframe src="//www.licznikodwiedzin.pl/cnt/start.php?key=184578519&amp;minDigits=6" width="187px" height="51px" id="counterForWebsiteFrame" marginheight="0" frameborder="0" style="margin: 0; border:0; padding: 0;" scrolling="no"></iframe>');
 document.write('</div>');
 
 
